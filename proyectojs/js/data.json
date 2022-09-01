@@ -1,0 +1,108 @@
+[
+{
+    "ID": 1,
+       "nombre": "REMOLACHA",
+       "precioUnitario": 60,
+       "stock": 50,
+       "ImgSrc":"https://okdiario.com/look/img/2020/06/05/los-3-beneficios-de-la-remolacha-para-la-piel-que-debes-conocer.jpg"
+       
+   },
+   {   
+       "ID": 2,
+       "nombre": "ZANAHORIA ",
+       "precioUnitario": 39,
+       "stock": 120,
+       "ImgSrc":"https://s1.eestatic.com/2019/10/04/ciencia/nutricion/verduras-frutas-salud_434216860_134609502_1706x960.jpg"
+   },
+   {   
+       "ID": 3,
+       "nombre": "PAPA",
+       "precioUnitario": 48,
+       "stock": 300,
+        "ImgSrc":"https://dam.cocinafacil.com.mx/wp-content/uploads/2018/07/beneficios-de-la-papa-1.jpg"
+   },
+   {   
+       "ID": 4,
+       "nombre": "PALTA ",
+       "precioUnitario": 55,
+       "stock": 100,
+        "ImgSrc":"https://st.depositphotos.com/1020804/1373/i/600/depositphotos_13739284-stock-photo-avocado-isolated-on-a-white.jpg"
+   },
+   {   
+       "ID": 5,
+       "nombre": "TOMATE",
+       "precioUnitario": 69,
+       "stock": 180,
+        "ImgSrc":" https://encolombia.com/wp-content/uploads/2021/11/Tomate-fruto.jpg"
+   },
+   {   
+       "ID": 6,
+       "nombre": "UVAS",
+       "precioUnitario": 120,
+       "stock": 140,
+       "ImgSrc":"https://www.semana.com/resizer/t4waQLu9ZYU71fLPGMrJUtPxaG8=/1200x675/filters:format(jpg):quality(50)//cloudfront-us-east-1.images.arcpublishing.com/semana/NYSRETWNJ5APLFMKK7ZRMKXKCM.jpg"
+   },
+   {   
+       "ID": 7,
+       "nombre": "MANZANA",
+       "precioUnitario": 49,
+       "stock": 150,
+        "ImgSrc":"https://i.blogs.es/e7e2fd/manzanas-colores/450_1000.jpg"
+   },
+   {   
+       "ID": 8,
+       "nombre": "PERA",
+       "precioUnitario": 89,
+       "stock": 180,
+        "ImgSrc":"https://www.lamansiondelasideas.com/wp-content/uploads/2021/09/Estos-son-los-beneficios-y-las-propiedades-de-la-Pera.jpg"
+   },
+   {   
+       "ID": 9,
+       "nombre": "ZAPALLITOS",
+       "precioUnitario": 49,
+       "stock": 90,
+        "ImgSrc":"https://cloudfront-us-east-1.images.arcpublishing.com/artear/XSKAP5N6HRB4TLY6MVWQYDOOC4.jpg"
+   },
+   {   
+       "ID": 10,
+       "nombre": "BANANAS ",
+       "precioUnitario": 59,
+       "stock": 250,
+        "ImgSrc":"https://static.abc.es/media/familia/2019/05/30/diferencias-platano-banana-1-kka--1248x698@abc.jpg"
+   },
+   {   
+       "ID": 11,
+       "nombre": "MANDARINA ",
+       "precioUnitario": 42,
+       "stock": 300,
+        "ImgSrc":"https://www.tuhuertaonline.es/wp-content/uploads/2020/01/propiedades-de-la-mandarina.jpg"
+   },
+   {   
+       "ID": 12,
+       "nombre": "NARANJA ",
+       "precioUnitario": 60,
+       "stock": 200,
+        "ImgSrc":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/naranja-portada-1657997149.jpg"
+   },
+   {   
+       "ID": 13,
+       "nombre": "ZAPALLO KABUTIA ",
+       "precioUnitario": 39,
+       "stock": 100,
+        "ImgSrc":"https://www.soko.uy/wp-content/uploads/2020/12/zapallo.jpg"
+   },
+   {   
+       "ID": 14,
+       "nombre": "BONIATOS ",
+       "precioUnitario": 59,
+       "stock": 250,
+        "ImgSrc":"https://www.botanical-online.com/wp-content/uploads/boniato-mercado.jpg"
+   },
+   {   
+       "ID": 15,
+       "nombre": "LIMON ",
+       "precioUnitario": 65,
+       "stock": 180,
+        "ImgSrc":"https://static1.abc.es/media/bienestar/2020/08/25/beneficios-limon-kw0H--620x349@abc.jpg"
+   }
+]

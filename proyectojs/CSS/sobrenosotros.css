@@ -1,0 +1,59 @@
+
+.container-fluid{
+    display: block;
+    flex-direction: column;background-color:rgb(97, 39, 39);
+    color:aliceblue;
+}
+.logo{
+    width: 200px;
+    height: 150px;
+}
+h1{
+ float: right;
+ padding-top:60px;
+padding-right: 50vh;
+}
+p{
+    margin:auto;
+    font-size: 18px;
+}
+
+ .celular1,.icons{
+height: 100px;
+width: 200px;
+}
+.celular2{
+    height:300px;
+    width: 200px;
+    border-radius: 40px;
+
+}
+ h2{
+text-align: center;
+padding-top: 40px;
+}
+.d-block{
+    width: 100vw;
+    height: 70vh;
+}
+.footer{
+    height:70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jumbotron-fluid a{
+    color:white;
+    font-size: 20px;
+    font-weight: 300;
+    margin: auto;
+    flex-direction: row;
+    float: right;
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+}
+.jumbotron-fluid a:hover{
+    color:#fff;
+}

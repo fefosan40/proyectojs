@@ -1,0 +1,94 @@
+#contact{
+    padding-left: 80vh;
+}
+
+.contact{
+    margin: auto;
+    height: 100vh;
+    width: 100vw;
+     position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+    
+.contact-wrapper{
+padding:50px;
+color:#fff;
+text-align:center;
+}
+.contact-t{
+    color:#ffff;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+form{
+    display:flex;
+    flex-direction: column;
+    width: 30vw;
+    margin-top: 2em;
+
+    
+  
+  }
+   input{
+    padding:10px 20px;
+    margin-bottom: 1em;
+    background: none;
+    border:none;
+  border-bottom:1px solid white; 
+  color:rgb(7, 6, 6);
+  outline:none;
+  
+  }
+   textarea{
+    height: 150px;
+    background: none;
+    color: rgb(14, 13, 13);
+    padding: 1.5em;
+    border:1px solid white; 
+    outline: none;
+  }
+  #btn2{
+    margin-bottom: 50px;
+   margin-left: 51px;
+    border:none;
+    text-transform: uppercase;
+    background-color:#300404;
+    border-radius: 20px;
+  cursor:pointer;
+  box-shadow: 1px 3px 11px -5px rgba(102,231,200,69);
+  color:#ffff;
+  
+  }
+  #btn2:hover{
+    background-color: whitesmoke;
+    color:#3d0000;
+    box-shadow: none;
+  }
+
+  .contacto{
+    background-color:rgb(97, 39, 39);
+    color:aliceblue;
+  }
+  .jumbotron-fluid a{
+    color:white;
+    font-size: 20px;
+    font-weight: 300;
+    margin: auto;
+    flex-direction: row;
+    float: right;
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+}
+.jumbotron-fluid a:hover{
+    color:#fff;
+}
+p{
+    height:40px;
+    margin-top:30px;
+}

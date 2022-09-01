@@ -1,0 +1,125 @@
+
+.contenedor{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-template-areas: 
+    "jumbo jumbo"
+    "productos carrito"
+    "error total"
+    "footer footer";
+    margin: 1;
+}
+ 
+ .jumbotron-fluid a{
+    color:white;
+    font-size: 20px;
+    font-weight: 300;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    float: right;
+    overflow: hidden;
+   
+}
+.jumbotron-fluid a:hover{
+background-color: rgba(125, 153, 24, 0.87);
+color:rgb(15, 15, 15);
+}
+#contact{
+    padding-left: 15px;
+    padding-right: 80px;
+    padding-bottom: 0px;
+}
+
+.span{
+    background-color:rgb(97, 39, 39);
+}
+.jumbotron-fluid{
+ 
+    width:100vw;
+    height:90vh;
+}
+.container{
+    margin:auto;
+    display: block;
+}
+.container h1{
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+ 
+.table{
+    margin-top: 30vh;
+}
+.card img{
+    height: 200px;
+}
+
+.error{
+    
+    grid-area: error;
+    background-color: red;
+    
+}
+
+.fin{
+    
+    grid-area: total;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "boton tot";
+    background-color: red;
+}
+
+#completarCompra{
+    grid-area: boton;
+}
+
+#total{
+    grid-area: tot;
+}
+
+.button {
+  
+    background-color: red;
+    color: ivory;
+    font-family: 'Harmattan', sans-serif !important;
+    border: 0px; 
+    border-radius: 0px;
+}
+
+.footer{
+    grid-area: footer;
+    height: 40px;
+}
+
+.logo1 {
+margin: auto;
+width:500px;
+height: 400px;
+}
+
+
+
+.icons{
+    width: 120px;
+    height: 120px;
+}
+
+
+.celular1 {
+    float:right;
+    width: 200px; 
+    height: 200px;
+
+}
+
+.celular2 {
+    float: left;
+}
+
